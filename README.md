@@ -31,9 +31,9 @@
 
 ### :man_technologist: About Me:
 
-I'm a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I'm a Software Developer and a QA Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I’m working as a Software Engineer and contributing to Frontend for building User Interface.
+- :telescope: I am ready to work as a SQA or Software Engineer..
 
 - :seedling: Exploring Technical Content Writing.
 
